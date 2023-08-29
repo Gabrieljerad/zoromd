@@ -35,16 +35,16 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈 」`
+global.packname = `「 Gabby 」`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈 - 2023'
-global.bott = 'zoro md'
-global.nomorown = '916235050956'
+global.me = 'Gabby - 2023'
+global.bott = 'Gabby md'
+global.nomorown = '254719316198'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
